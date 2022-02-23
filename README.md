@@ -14,7 +14,7 @@
 ![app-screenshot-4]
 ![app-screenshot-5]
 
-Project Link: [https://github.com/desi109/linkio-space](https://github.com/desi109/linko-space)
+Project Link: [https://github.com/desi109/insertion-sort-algorithm-visualizer](https://github.com/desi109/insertion-sort-algorithm-visualizer)
 
 
 <!-- IMAGES -->
